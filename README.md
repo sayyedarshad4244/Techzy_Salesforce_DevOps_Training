@@ -1,2 +1,2 @@
 # Techzy_Salesforce_DevOps_Training
-  first  practical
+  Demo salesforce training
